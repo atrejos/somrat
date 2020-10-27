@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "Alex Trejos"
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
@@ -58,7 +58,7 @@ URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "Interests"
 URL = "#service"
 weight = 3
 
@@ -68,11 +68,6 @@ URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
-name = "Testimonial"
-URL = "#testimonial"
-weight = 5
-
-[[menu.main]]
 name = "Contact"
 URL = "#contact"
 weight = 6
@@ -80,11 +75,11 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/Picture5.png"
+logo_dark = "images/Picture5.png"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "alex"
 # contact form action
 contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
@@ -96,25 +91,14 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-[[params.social]]
-icon = "fa-facebook-f" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/somrat.mac"
-
-[[params.social]]
-icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/somrat_37"
-
-[[params.social]]
-icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.instagram.com/somrat_sorkar/"
 
 [[params.social]]
 icon = "fa-github" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/Somrat37"
+link = "https://github.com/atrejos"
 
 [[params.social]]
 icon = "fa-linkedin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://www.linkedin.com/in/alejandro-trejos-0452ab132/"
 
 
 ################################### English language #####################################
@@ -125,15 +109,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 alexTrejos"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
