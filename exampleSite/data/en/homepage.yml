@@ -39,7 +39,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY RESUME"
-    link : "static/AlejandroTrejosOct20.docx" # you can put your cv in static folder and give the path here.
+    link : "images/AlejandroTrejosOct20.docx" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
