@@ -2130,6 +2130,11 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
+.added-text {
+  color: #ffffff;
+  font-size: 14pt;
+}
+
 /*--------------------------------
   End Contact
 ----------------------------------

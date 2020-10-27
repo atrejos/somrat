@@ -33,7 +33,7 @@ fullscreen_nav:
 about:
   enable : true
   image : "images/backgrounds/me.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
+  title : "A LITTLE <br> ABOUT ME"
   content : "I'm Alex, a Mechatronics Engineering student. I love solving problems with technology. A University senior pursuing a BS degree in Mechatronics Engineering from Texas A&M University set to graduate Fall 2020. I have a foundation in electro-mechanical engineering with experience developing and deploying software in robotic, web, and IOT systems. <br>I am excited to bring this experience into industry where I can hone my skills and work along great minds.<br>"
   # button
   button:
