@@ -4,31 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: exampleSite/content
+  label: Pages
   create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
-  label: Configuration
-- type: directory
-  path: exampleSite
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
+  match: "*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
