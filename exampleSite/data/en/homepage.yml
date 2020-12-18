@@ -33,8 +33,8 @@ fullscreen_nav:
 about:
   enable : true
   image : "images/backgrounds/me.jpg"
-  title : "A LITTLE <br> ABOUT ME"
-  content : "I'm Alex, a Mechatronics Engineering student. I love solving problems with technology. A University senior pursuing a BS degree in Mechatronics Engineering from Texas A&M University set to graduate Fall 2020. I have a foundation in electro-mechanical engineering with experience developing and deploying software in robotic, web, and IOT systems. <br>I am excited to bring this experience into industry where I can hone my skills and work along great minds.<br>"
+  title : "<br> ABOUT ME"
+  content : "I'm Alex, a Mechatronics Engineering student. I love solving problems with technology. I am a recent graduate from Texas A&M University after receiving a BS degree in Mechatronics Engineering from Texas A&M University. I have a foundation in electro-mechanical engineering with experience developing and deploying software in robotic, web, and IOT systems. <br>I am excited to bring this experience into a field where I can hone my skills and work along side great minds.<br>"
   # button
   button:
     enable : true
@@ -67,15 +67,15 @@ experience:
 
 ############################### Skill #################################
 skill:
-  enable : true
-  title : "SKILL"
+  enable : false
+  title : "SKILL DISTRIBUTION"
   skill_list:
     # skill item loop
-    - name : "Robotics"
-      parcentage : "95%"
+    - name : ""
+      parcentage : "30%"
       
     # skill item loop
-    - name : "Electronics/Embedded Systems"
+    - name : "ROS"
       parcentage : "85%"
       
     # skill item loop
