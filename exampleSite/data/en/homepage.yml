@@ -4,9 +4,9 @@ hero:
 
   # animated text loop
   occupations:
-    - "Engineer.."
-    - "Roboticist.."
-    - "Life long learner.."
+    - "Engineering.."
+    - "Robotics.."
+    - "Deep Learning.."
 
   # slider background image loop
   slider_image:
@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/me.jpg"
   title : "<br> ABOUT ME"
-  content : "I'm Alex, a Mechatronics Engineering student. I love solving problems with technology. I am a recent graduate from Texas A&M University after receiving a BS degree in Mechatronics Engineering from Texas A&M University. I have a foundation in electro-mechanical engineering with experience developing and deploying software in robotic, web, and IOT systems. <br>I am excited to bring this experience into a field where I can hone my skills and work along side great minds.<br>"
+  content : "I'm Alex, a recent BS Mechatronics Engineering Graduate from Texas A&M University. With a strong foundation in electro-mechanical engineering, a love for deep learning, and experience developing software in robotic, web, and IOT systems I am focused on integrating high level intelligence <br> with low level hardware. I am eager to commit to an organization where I can continue to grow as an engineer.<br>"
   # button
   button:
     enable : true
